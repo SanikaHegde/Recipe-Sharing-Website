@@ -18,9 +18,9 @@ A simple and colorful recipe sharing platform where users can:
 ## Results   
 
 ![image alt](https://github.com/SanikaHegde/Recipe-Sharing-Website/blob/bb108e80fa617ffe61a26d24f285a4845ffdfa3c/Screenshot%202025-08-19%20145613.png)
+![image alt](https://github.com/SanikaHegde/Recipe-Sharing-Website/blob/25b158a573a7c8372c761535faf32273eaaaf5b9/Screenshot%202025-08-19%20145635.png)
 
 
-![Recipe Sharing Website Screenshot](https://github.com/SanikaHegde/Recipe-Sharing-Website/issues/1)
 ---
 
 ## 🚀 How to Use  
@@ -45,6 +45,7 @@ A simple and colorful recipe sharing platform where users can:
    git clone https://github.com/SanikaHegde/Recipe-Sharing-Website.git
    cd Recipe-Sharing-Website
 Open index.html in your browser.
+
 
 
 
