@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🍽️ Recipe Sharing Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🍴 My Recipe Book</h1>
+    <p>Share your favorite recipes with the world 🌍</p>
+  </header>
+
+  <section class="form-section">
+    <h2>Add a New Recipe</h2>
+    <input type="text" id="title" placeholder="Recipe Title">
+    <input type="text" id="ingredients" placeholder="Ingredients (comma separated)">
+    <textarea id="instructions" placeholder="Cooking Instructions"></textarea>
+    <input type="text" id="image" placeholder="Image URL (optional)">
+    <button onclick="addRecipe()">➕ Add Recipe</button>
+  </section>
+
+  <main>
+    <h2>📖 Recipe Collection</h2>
+    <div id="recipe-list" class="recipe-container"></div>
+  </main>
+
+  <footer>
+    <p>💡 Built with ❤️ using HTML, CSS & JavaScript</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
