@@ -39,12 +39,8 @@ A simple and colorful recipe sharing platform where users can:
 - 
 ---
 
-## 📂 Project Setup  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/SanikaHegde/Recipe-Sharing-Website.git
-   cd Recipe-Sharing-Website
-Open index.html in your browser.
+
+
 
 
 
