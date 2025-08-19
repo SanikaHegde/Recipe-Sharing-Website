@@ -17,7 +17,7 @@ A simple and colorful recipe sharing platform where users can:
 
 ## Results   
 
-![image alt](https://github.com/SanikaHegde/Fursteps-pet-wellness-tracker/blob/d3bcfb4f8f88747e3156253eac685963f2af0227/Screenshot%202024-12-27%20221940.png )
+![image alt](https://github.com/SanikaHegde/Recipe-Sharing-Website/blob/bb108e80fa617ffe61a26d24f285a4845ffdfa3c/Screenshot%202025-08-19%20145613.png)
 
 
 ![Recipe Sharing Website Screenshot](https://github.com/SanikaHegde/Recipe-Sharing-Website/issues/1)
@@ -45,6 +45,7 @@ A simple and colorful recipe sharing platform where users can:
    git clone https://github.com/SanikaHegde/Recipe-Sharing-Website.git
    cd Recipe-Sharing-Website
 Open index.html in your browser.
+
 
 
 
