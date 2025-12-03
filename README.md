@@ -1,9 +1,17 @@
 # 🍴 Recipe Sharing Website  
 
+
 A simple and colorful recipe sharing platform where users can:  
 - Browse existing recipes with pictures.  
 - Add their own recipes with ingredients, instructions, and images.  
 - Delete recipes they no longer want.  
+
+---
+## 🚀 Live Demo
+
+You can view the live hosted version of this project here:
+
+👉 **https://sanikahegde.github.io/Recipe-Sharing-Website/**
 
 ---
 
@@ -38,6 +46,7 @@ A simple and colorful recipe sharing platform where users can:
 - **LocalStorage** for saving recipes
 - 
 ---
+
 
 
 
